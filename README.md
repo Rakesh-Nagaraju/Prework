@@ -1,6 +1,6 @@
 # Pre-work - *Rakesh's Tip Calculator*
 
-**Rakesh's Tip Calculato** is a tip calculator application for iOS.
+**Rakesh's Tip Calculator** is a tip calculator application for iOS.
 
 Submitted by: **Rakesh Nagaraju**
 
